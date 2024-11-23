@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBhLuU96twRGUJ0n4u0t1DRAimA4argkWQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>469771574282</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>trangcherry.ezs</string>
+	<key>PROJECT_ID</key>
+	<string>trang-cherry-beauty</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trang-cherry-beauty.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:469771574282:ios:74fc38cec21209271a93f3</string>
+	<key>DATABASE_URL</key>
+	<string>https://trang-cherry-beauty-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
